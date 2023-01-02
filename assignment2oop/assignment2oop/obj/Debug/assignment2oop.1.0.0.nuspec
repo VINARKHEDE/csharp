@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>assignment2oop</id>
+    <version>1.0.0</version>
+    <authors>assignment2oop</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\VINARKHE\source\repos\assignment2oop\assignment2oop\bin\Debug\netcoreapp3.1\assignment2oop.runtimeconfig.json" target="lib\netcoreapp3.1\assignment2oop.runtimeconfig.json" />
+    <file src="C:\Users\VINARKHE\source\repos\assignment2oop\assignment2oop\bin\Debug\netcoreapp3.1\assignment2oop.dll" target="lib\netcoreapp3.1\assignment2oop.dll" />
+  </files>
+</package>

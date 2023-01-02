@@ -1,0 +1,14 @@
+C:\Users\VINARKHE\source\repos\exception\exception\bin\Debug\netcoreapp3.1\exception.exe
+C:\Users\VINARKHE\source\repos\exception\exception\bin\Debug\netcoreapp3.1\exception.deps.json
+C:\Users\VINARKHE\source\repos\exception\exception\bin\Debug\netcoreapp3.1\exception.runtimeconfig.json
+C:\Users\VINARKHE\source\repos\exception\exception\bin\Debug\netcoreapp3.1\exception.runtimeconfig.dev.json
+C:\Users\VINARKHE\source\repos\exception\exception\bin\Debug\netcoreapp3.1\exception.dll
+C:\Users\VINARKHE\source\repos\exception\exception\bin\Debug\netcoreapp3.1\exception.pdb
+C:\Users\VINARKHE\source\repos\exception\exception\obj\Debug\netcoreapp3.1\exception.csproj.AssemblyReference.cache
+C:\Users\VINARKHE\source\repos\exception\exception\obj\Debug\netcoreapp3.1\exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VINARKHE\source\repos\exception\exception\obj\Debug\netcoreapp3.1\exception.AssemblyInfoInputs.cache
+C:\Users\VINARKHE\source\repos\exception\exception\obj\Debug\netcoreapp3.1\exception.AssemblyInfo.cs
+C:\Users\VINARKHE\source\repos\exception\exception\obj\Debug\netcoreapp3.1\exception.csproj.CoreCompileInputs.cache
+C:\Users\VINARKHE\source\repos\exception\exception\obj\Debug\netcoreapp3.1\exception.dll
+C:\Users\VINARKHE\source\repos\exception\exception\obj\Debug\netcoreapp3.1\exception.pdb
+C:\Users\VINARKHE\source\repos\exception\exception\obj\Debug\netcoreapp3.1\exception.genruntimeconfig.cache
